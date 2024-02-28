@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm JI Fakir</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jifakir" alt="jifakir" /></a> </p>
-
 - 🌱 I’m currently learning **golang**
 
 - 👨‍💻 All of my projects are available at [https://jifakir.xyz](https://jifakir.xyz)
