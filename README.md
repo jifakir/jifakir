@@ -8,11 +8,6 @@
 - 📫 How to reach me **jifakir02@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jifakir/](https://www.linkedin.com/in/jifakir/)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jifakir&show_icons=true&locale=en&layout=compact" alt="jifakir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jifakir&show_icons=true&locale=en" alt="jifakir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jifakir&" alt="jifakir" /></p>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
